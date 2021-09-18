@@ -8,6 +8,7 @@
 
 <h1 align = "center"><b><u>CS114.M11 - Máy học - Machine Learning</b></u></h1>
 <hr>
+
 # Giới thiệu
 * **Tên môn học**: CS114.M11 - Máy học
 * **Năm học**: HKI (2021 - 2022) 
