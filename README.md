@@ -10,9 +10,9 @@
 <hr>
 
 # Giới thiệu
-* **Tên môn học**: CS114.M11 - Máy học
-* **Năm học**: HKI(2021 - 2022) 
-* **Giáo viên hướng dẫn**:
+* 🤖 **Tên môn học**: CS114.M11 - Máy học
+* 🏫 **Năm học**: HKI(2021 - 2022) 
+* 👨‍🏫 **Giáo viên hướng dẫn**:
     * PGS.TS. Lê Đình Duy
     * Ths. Phạm Nguyễn Trường An	
 
